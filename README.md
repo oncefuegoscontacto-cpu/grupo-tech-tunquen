@@ -231,3 +231,4 @@ pnpm dev -- --port 3000
 **Versión**: 1.0.0  
 **Última actualización**: Mayo 2026  
 **Licencia**: MIT
+redeploy
